@@ -1,24 +1,3 @@
-### Hi there 👋
+Senior React/Next.js developer with 10+ years professional experience helping clients transform complex designs into seamless user experiences, spanning games (Plague Inc Evolved, 50k+ reviews on Steam), private aviation (Jetfly, Fly7, CaptainJet), ed-tech (Javu) and NFT-based apps.
 
-To see my work, check out my [online portfolio](https://pugs.ly/).
-
-For a short video intro, click below.
-
-[![Dan Pugsley: React/React Native Developer](https://img.youtube.com/vi/ZvY_8_S1z-4/0.jpg)](https://www.youtube.com/watch?v=ZvY_8_S1z-4)
-
-For enquiries, contact me at [daniel.pugsley@gmail.com](mailto:daniel.pugsley@gmail.com) or book an intro using [my Calendly](https://calendly.com/dan-pugsley).
-
-<!--
-**dan-pugsley/dan-pugsley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+See my full portfolio [here](https://pugs.ly/).
