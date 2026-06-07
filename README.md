@@ -1,7 +1,18 @@
-### Hi there 👋
+### Dan Pugsley — founder-engineer
 
-I'm a senior full-stack developer specializing in front-end development and React ecosystems. With over 9 years of professional experience across [award-winning games](https://store.steampowered.com/app/246620/Plague_Inc_Evolved/), [private aviation](https://jetfly.com/), [ed-tech](https://javu.app/) and betting platforms, I bring obsessive attention to detail and a game-developer's eye for fluid, responsive interaction.
+I ship AI products end-to-end — systems architecture with a designer's eye.
 
-I thrive on complexity, taking pride in building large systems that not only look great, but _feel_ great to use.
+**Co-founder & CTO [@Pitwhiz](https://pitwhiz.com)** · solo-built **[Javu](https://javu.app)** · 10 years shipping: games → aviation → AI.
 
-To learn more about my work, visit my [portfolio](https://pugs.ly/).
+#### What I'm building
+- **[Pitwhiz](https://pitwhiz.com)** — a motorsport data & AI platform. Co-founder & CTO.
+- **[Javu](https://javu.app)** — an AI language-learning app for iOS & Android, built solo end-to-end: React Native/Expo, a Laravel/AWS backend, and a 1.4M-word, 8-language AI dictionary. [Daily winner on Uneed](https://www.uneed.best/tool/javu).
+- **[life-context](https://github.com/dan-pugsley/life-context)** — an AI-managed, agent-friendly personal context store: a fractal Markdown framework for giving AI assistants rich, structured context.
+
+#### What I'm into
+Using AI as leverage to stay a hands-on architect at CTO scale · obsessive UI & micro-interaction craft · a reflective, systems-level lens on what I build.
+
+#### Elsewhere
+[pugs.ly](https://pugs.ly) · [LinkedIn](https://www.linkedin.com/in/dpugsley/)
+
+<sub>Once cycled UK → The Gambia (~12,000 km) with a compass and no training — [documented along the way](https://blog.pugs.ly). Anything's possible with enough determination.</sub>
