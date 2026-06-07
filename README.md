@@ -15,4 +15,4 @@ Using AI as leverage to stay a hands-on architect at CTO scale · obsessive UI &
 #### Elsewhere
 [pugs.ly](https://pugs.ly) · [LinkedIn](https://www.linkedin.com/in/dpugsley/)
 
-<sub>Once cycled UK → The Gambia (~12,000 km) with a compass and no training — [documented along the way](https://blog.pugs.ly). Anything's possible with enough determination.</sub>
+<sub>Once cycled from UK to The Gambia (~12,000 km) with a compass and no training—[documented along the way](https://blog.pugs.ly). Anything's possible with enough determination.</sub>
